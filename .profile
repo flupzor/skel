@@ -34,3 +34,4 @@ function volume_down
 set -o emacs
 
 export PATH PAGER EDITOR PS1 HISTFILE HISTSIZE HOME TERM
+xsetroot -solid black
