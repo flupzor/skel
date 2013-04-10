@@ -1,0 +1,5 @@
+# ~ or $HOME aren't supported. So use an absolute path.
+session = /home/alex/.rtorrent-session
+
+# I'm not a nice person.
+upload_rate = 5
