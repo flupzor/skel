@@ -1,3 +1,6 @@
+" Pathogen loads plugins from the bundle directory.
+execute pathogen#infect()
+
 " All the cool kids are doing it.
 syntax on
 
